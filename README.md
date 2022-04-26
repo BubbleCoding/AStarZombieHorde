@@ -1,6 +1,6 @@
 # A* Zombie Horde
 
-In the second year of my Bachelors program we had classes about pathfinding algorithms like A* to solve mazes.
+In the second year of my Bachelors program we had classes about pathfinding algorithms like A* and minimax to solve mazes and play tictactoe.
 Part of that course was to create something cool with A* and thus I made a topdown zombie horde game. 
 Where the enemies function with different levels of complexity of algorithms.
 
