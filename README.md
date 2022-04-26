@@ -1,4 +1,4 @@
-# A Star Zombie Horde
+# A* Zombie Horde
 
 In the second year of my Bachelors program we had classes about pathfinding algorithms like A* to solve mazes.
 Part of that course was to create something cool with A* and thus I made a topdown zombie horde game. 
